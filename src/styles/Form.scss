@@ -1,0 +1,50 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  text-align: left;
+  justify-content: center;
+
+  background-color: #889fa4;
+  max-width: 253px;
+  height: 100%;
+
+  text {
+    color: #ffffff;
+    font-family: Helvetica;
+    font-size: 7.8px;
+    padding-bottom: 5px;
+  }
+  .form-title {
+    margin-top: 10px;
+    font-size: 27px;
+    text-align: left;
+  }
+
+  #Name {
+    width: 230px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+  }
+  #Email {
+    width: 230px;
+    margin-bottom: 15px;
+  }
+  #Phone {
+    width: 230px;
+    margin-bottom: 15px;
+  }
+  #Credit {
+    width: 230px;
+    margin-bottom: 15px;
+  }
+  #Offers {
+    width: 230px;
+    margin-bottom: 15px;
+  }
+  #Send {
+    width: 230px;
+    margin-bottom: 15px;
+  }
+}
