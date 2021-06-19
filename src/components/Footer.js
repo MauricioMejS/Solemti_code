@@ -10,7 +10,7 @@ export default function Footer() {
             Nuestro fundador, el Ing. Manuel J. Clouthier
           </text>
           <text className="footer-subtitle">
-            as La calidad para nosotros es sinónimo de Confianza. Nuestro socio
+            La calidad para nosotros es sinónimo de Confianza. Nuestro socio
             fundador Don Manuel J. Clouthier Del Rincón (Maquío) decía, "La
             Confianza no se pide; se da y se gana". Por eso en IMPULSA nos
             apegamos con pasión a la honestidad, al compromiso y la seriedad con

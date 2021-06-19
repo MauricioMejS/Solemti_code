@@ -13,7 +13,7 @@ export default function Form() {
     <div className="form-container">
       <text className="form-title">Casas en Culiacan</text>
       <text>
-        Déjanos tu correo electrónico y te enviaremos toda lainformación
+        Déjanos tu correo electrónico y te enviaremos toda la información
       </text>
       <Input id="Name" placeholder="*Nombre completo" />
       <Input id="Email" placeholder="*Correo electronico" />

@@ -7,7 +7,7 @@ export default function Info() {
     <div className="info-container">
       <div className="info-container__column">
         <text className="info-title">
-          Conoce los modelis de nuestras casas en venta
+          Conoce los modelos de nuestras casas en venta
         </text>
         <text style={{ paddingLeft: "100px" }} className="info-subtitle">
           Modelo Catalán

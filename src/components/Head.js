@@ -16,7 +16,7 @@ export default function Head() {
           <text style={{ fontSize: "75px" }}>ESPACIO</text>
           <text style={{ fontSize: "52px" }}>BARCELONA</text>
 
-          <text style={{ fontSize: "22.9px", paddingBottom: "30px" }}>
+          <text style={{ fontSize: "23.2px", paddingBottom: "30px" }}>
             RECIDENCIAL EN CULIACAN
           </text>
 
